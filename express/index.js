@@ -9,7 +9,6 @@ app.use(express.json());
 let meData = [];
 let nextId = 1;
 
-
 //Adding Me
 app.post("/me", (req, res) => {
   const { name, detail } = req.body;
