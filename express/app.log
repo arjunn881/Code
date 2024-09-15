@@ -1,0 +1,50 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"5.439\"}","timestamp":"2024-09-15T05:27:09.437Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.353\"}","timestamp":"2024-09-15T05:27:13.362Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.821\"}","timestamp":"2024-09-15T05:27:15.235Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.512\"}","timestamp":"2024-09-15T05:27:16.063Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.284\"}","timestamp":"2024-09-15T05:27:16.962Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.308\"}","timestamp":"2024-09-15T05:27:29.771Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.319\"}","timestamp":"2024-09-15T05:27:30.064Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.372\"}","timestamp":"2024-09-15T05:27:30.304Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.417\"}","timestamp":"2024-09-15T05:27:30.639Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.404\"}","timestamp":"2024-09-15T05:27:31.044Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.425\"}","timestamp":"2024-09-15T05:27:31.265Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/meData\",\"status\":\"201\",\"responseTime\":\"0.961\"}","timestamp":"2024-09-15T05:27:40.319Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:17.933Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"8.690\"}","timestamp":"2024-09-15T05:33:17.945Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A get request is made to show all of you!!!","timestamp":"2024-09-15T05:33:34.337Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/meData\",\"status\":\"201\",\"responseTime\":\"1.893\"}","timestamp":"2024-09-15T05:33:34.340Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A get request is made to find you!!!","timestamp":"2024-09-15T05:33:45.415Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/findme/:2\",\"status\":\"404\",\"responseTime\":\"2.563\"}","timestamp":"2024-09-15T05:33:45.418Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:55.350Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"1.291\"}","timestamp":"2024-09-15T05:33:55.351Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:55.617Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"1.400\"}","timestamp":"2024-09-15T05:33:55.619Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:55.824Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"1.577\"}","timestamp":"2024-09-15T05:33:55.827Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:56.171Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"1.716\"}","timestamp":"2024-09-15T05:33:56.172Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:56.497Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"1.220\"}","timestamp":"2024-09-15T05:33:56.500Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:56.827Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"1.154\"}","timestamp":"2024-09-15T05:33:56.829Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:57.178Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"1.438\"}","timestamp":"2024-09-15T05:33:57.180Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:57.418Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"1.432\"}","timestamp":"2024-09-15T05:33:57.420Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:57.637Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"0.945\"}","timestamp":"2024-09-15T05:33:57.639Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made to add you!!!","timestamp":"2024-09-15T05:33:57.891Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/me\",\"status\":\"201\",\"responseTime\":\"1.387\"}","timestamp":"2024-09-15T05:33:57.892Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A get request is made to show all of you!!!","timestamp":"2024-09-15T05:34:00.763Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/meData\",\"status\":\"201\",\"responseTime\":\"2.747\"}","timestamp":"2024-09-15T05:34:00.765Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A get request is made to find you!!!","timestamp":"2024-09-15T05:34:05.915Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/findme/:2\",\"status\":\"404\",\"responseTime\":\"2.179\"}","timestamp":"2024-09-15T05:34:05.917Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A get request is made to verify!!!","timestamp":"2024-09-15T05:34:10.479Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"200\",\"responseTime\":\"3.054\"}","timestamp":"2024-09-15T05:34:10.482Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A get request is made to show all of you!!!","timestamp":"2024-09-15T05:34:17.645Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/meData\",\"status\":\"201\",\"responseTime\":\"1.077\"}","timestamp":"2024-09-15T05:34:17.646Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A get request is made to find you!!!","timestamp":"2024-09-15T05:34:30.188Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/findme/:2\",\"status\":\"404\",\"responseTime\":\"1.138\"}","timestamp":"2024-09-15T05:34:30.190Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A get request is made to find you!!!","timestamp":"2024-09-15T05:34:47.036Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/findme/:3\",\"status\":\"404\",\"responseTime\":\"1.341\"}","timestamp":"2024-09-15T05:34:47.037Z"}
